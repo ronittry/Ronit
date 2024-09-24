@@ -6,4 +6,4 @@ pip install certifi
 pip install telebot pymongo aiohttp psutil
 pip install python-telegram-bot 
 chmod +x *
-python3 sharp.py
+python3 Ghost.py
